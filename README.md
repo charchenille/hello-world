@@ -1,3 +1,3 @@
 # hello-world
 like a newborn
-exploring and discovering
+exploring and discovering the absolute basics of branches
