@@ -1,3 +1,2 @@
 # hello-world
-like a newborn
-exploring and discovering the absolute basics of branches
+Seeking inspiration for some circuit-playground projects that can be accomplished by newbies in a few hours
